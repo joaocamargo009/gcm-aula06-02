@@ -7,5 +7,6 @@ Ferramentas de Controle de Versão
 - Source Safe
 - SVN
 - Mercurial
+- Performance
 - GitHub
 - Bitbucket
