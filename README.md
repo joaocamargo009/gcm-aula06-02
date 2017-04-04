@@ -8,5 +8,6 @@ Ferramentas de Controle de Versão
 - Clear Case
 - SVN
 - Mercurial
+- Performance
 - GitHub
 - Bitbucket
